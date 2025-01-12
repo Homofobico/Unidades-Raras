@@ -1,18 +1,11 @@
-[
-  {
-    "name": "America",
-    "adjective": "American",
-    "capitalName": "Washington",
-    "outerColor": "Blue",
-    "innerColor": "White",
-    "cityNames": ["New York", "Los Angeles", "Chicago"],
-    "startingUnits": {
-      "Settler": 0,
-      "Warrior": 1
-    },
-    "uniques": [
-      "+1 Sight for all units",
-      "+1 Production from every Plains tile"
-    ]
-  }
-]
+{
+    "name": "Sin Colonos",
+    "leaderName": "No Colonizador",
+    "style": "EstiloDeEjemplo",
+    "innerColor": [0, 255, 128], 
+    "outerColor": [128, 64, 0],  
+    "uniqueName": "Sin colonos",
+    "uniqueText": "Esta civilización no puede construir colonos.",
+    "uniques": ["No puede construir colonos."],
+    "cities": []
+}
