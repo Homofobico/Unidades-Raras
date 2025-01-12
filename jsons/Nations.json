@@ -1,23 +1,18 @@
 [
   {
     "name": "America",
+    "adjective": "American",
+    "capitalName": "Washington",
+    "outerColor": "Blue",
+    "innerColor": "White",
+    "cityNames": ["New York", "Los Angeles", "Chicago"],
+    "startingUnits": {
+      "Settler": 0,
+      "Warrior": 1
+    },
     "uniques": [
       "+1 Sight for all units",
       "+1 Production from every Plains tile"
-    ],
-    "startingUnits": {
-      "Settler": 0,
-      "Warrior": 1
-    }
-  },
-  {
-    "name": "Egypt",
-    "uniques": [
-      "+20% Production when building Wonders"
-    ],
-    "startingUnits": {
-      "Settler": 0,
-      "Warrior": 1
-    }
+    ]
   }
 ]
