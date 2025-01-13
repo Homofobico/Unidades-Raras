@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "civilian",
+		"unitType": "Civilian",
 		"uniqueTo": "Aliens",
 		"replaces": "Great General",
 		"movement": 2,
