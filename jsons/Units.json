@@ -2,6 +2,7 @@
   {
     "name": "Self-Destruct Settler",
     "unitType": "Civilian",
+    "uniqueTo": "Aliens",  // Opcional, si es específico de una civilización.
     "replaces": "Settler",
     "movement": 2,
     "cost": 0,  // Ajusta según balance de juego.
