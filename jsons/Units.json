@@ -1,13 +1,10 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Ranged",
+		"unitType": "civilian",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"replaces": "Great General",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
