@@ -1,12 +1,13 @@
 [
-  {
-    "name": "Self-Destruct Settler",
-    "unitType": "Civilian",
-    "uniqueTo": "Aztecs",  // Opcional, si es específico de una civilización.
-    "replaces": "Settler",
-    "movement": 2,
-    "cost": 0,  // Ajusta según balance de juego.
-    "canSettleCities": true,
-    "CanOnlyBeBuiltWhen": ["Turn 1"],
-  }
+{
+  "name": "Self-Destruct Settler",
+  "unitType": "Civilian",
+  "uniqueTo": "Aztecs",
+  "replaces": "Settler",
+  "movement": 2,
+  "cost": 0,
+  "canSettleCities": true,
+  "requiredTech": "DummyTech",
+  "promotions": ["Self-Destruction"]
+}
 ]
