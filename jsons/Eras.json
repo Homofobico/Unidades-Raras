@@ -2,7 +2,6 @@
   {
     "name": "No Capital City Challenge",
     "startingSettlerUnit": "Settler",
-    "settlerPopulation": ["3"],
     "aiMajorCivStartingUnits": ["warrior"],
     "playerStartingSettlers": 0,
     "aiMajorCivStartingSettlers": 0,
