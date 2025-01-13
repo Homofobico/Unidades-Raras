@@ -1,6 +1,6 @@
 [
 {
-  "name": "TurnOneSettler",
+  "name": "No hago nada xd 1",
   "unitType": "Civilian",
   "replaces": "Settler",
   "uniqueTo": "Marco",
@@ -10,7 +10,7 @@
   "canOnlyBeBuiltWhen": ["Policy = TurnOnePolicy"]
 },
 {
-  "name": "TurnOneSettler",
+  "name": "No hago nada xd 2",
   "unitType": "Civilian",
   "replaces": "Settler",
   "uniqueTo": "Bruno",
@@ -20,7 +20,7 @@
   "canOnlyBeBuiltWhen": ["Policy = TurnOnePolicy"]
 },
 {
-  "name": "TurnOneSettler",
+  "name": "No hago nada xd 3",
   "unitType": "Civilian",
   "replaces": "Settler",
   "uniqueTo": "Fede",
@@ -30,7 +30,7 @@
   "canOnlyBeBuiltWhen": ["Policy = TurnOnePolicy"]
 },
 {
-  "name": "TurnOneSettler",
+  "name": "No hago nada xd 4",
   "unitType": "Civilian",
   "replaces": "Settler",
   "uniqueTo": "Rateii",
