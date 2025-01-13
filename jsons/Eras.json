@@ -1,7 +1,7 @@
 [
   {
     "name": "No Capital City Challenge",
-    "startingSettlerUnit": "Phaser",
+    "startingSettlerUnit": "Phasers",
     "aiMajorCivStartingUnits": ["warrior"],
     "playerStartingSettlers": 0,
     "aiMajorCivStartingSettlers": 0,
