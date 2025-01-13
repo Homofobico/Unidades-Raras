@@ -1,3 +1,4 @@
+[
 {
   "name": "DummyTech",
   "cost": 9999999,
@@ -5,3 +6,4 @@
   "prerequisites": [],
   "unique": ["Cannot be researched"]
 }
+]
