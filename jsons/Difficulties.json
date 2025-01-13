@@ -2,7 +2,7 @@
   {
     "name": "No Capital City Challenge",
     "playerBonusStartingUnits": ["Warrior"],
-    "aiMajorCivBonusStartingUnits": ["Warrior"],
+    "aiMajorCivBonusStartingUnits": ["Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
     "playerStartingSettlers": 0,
     "aiMajorCivStartingSettlers": 0,
     "playerEraStartingUnits": []
