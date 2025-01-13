@@ -1,6 +1,11 @@
+[
 {
-  "StartingUnits": {
-    "Settler": 0,
-    "Warrior": 1
-  }
+  "difficulty": "Custom",
+  "playerBonusStartingUnits": ["Warrior"],
+  "aiMajorCivBonusStartingUnits": ["Warrior", "Scout", "Worker"],
+  "playerEraStartingUnits": ["Warrior"],
+  "aiMajorCivEraStartingUnits": ["Warrior", "Scout", "Worker"],
+  "playerStartingSettlers": 0,
+  "aiMajorCivStartingSettlers": 0
 }
+]
