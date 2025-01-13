@@ -1,0 +1,7 @@
+{
+  "name": "DummyTech",
+  "cost": 9999999,
+  "treePosition": {"x": 99, "y": 99},
+  "prerequisites": [],
+  "unique": ["Cannot be researched"]
+}
