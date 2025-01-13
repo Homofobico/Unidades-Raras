@@ -1,10 +1,11 @@
-{
-  "name": "No Capital City Challenge",
-  "difficulty": "Custom",
-  "playerBonusStartingUnits": ["Warrior"],
-  "aiMajorCivBonusStartingUnits": ["Warrior", "Scout", "Worker"],
-  "playerEraStartingUnits": ["Warrior"],
-  "aiMajorCivEraStartingUnits": ["Warrior", "Scout", "Worker"],
-  "playerStartingSettlers": 0,
-  "aiMajorCivStartingSettlers": 0
-}
+[
+  {
+    "name": "No Capital City Challenge",
+    "playerBonusStartingUnits": ["Warrior"],
+    "aiMajorCivBonusStartingUnits": ["Warrior", "Scout", "Worker"],
+    "playerEraStartingUnits": ["Warrior"],
+    "aiMajorCivEraStartingUnits": ["Warrior", "Scout", "Worker"],
+    "playerStartingSettlers": 0,
+    "aiMajorCivStartingSettlers": 0
+  }
+]
