@@ -7,6 +7,6 @@
     "movement": 2,
     "cost": 0,  // Ajusta según balance de juego.
     "canSettleCities": true,
-    "Limited to [1] per Civilization",
+    "CanOnlyBeBuiltWhen": ["Turn 1"],
   }
 ]
