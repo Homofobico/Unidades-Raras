@@ -1,13 +1,12 @@
 [
 {
-  "name": "Self-Destruct Settler",
+  "name": "TurnOneSettler",
   "unitType": "Civilian",
-  "uniqueTo": "Aztecs",
   "replaces": "Settler",
+  "uniqueTo": "Aztecs",
   "movement": 2,
   "cost": 0,
   "canSettleCities": true,
-  "requiredTech": "DummyTech",
-  "promotions": ["Self-Destruction"]
+  "canOnlyBeBuiltWhen": ["Policy = TurnOnePolicy"]
 }
 ]
