@@ -34,7 +34,7 @@
                 "name": "Collective Rule",
                 "uniques": [
                     "[+50]% Production when constructing [Settler] units [in capital]",
-                    "Free [Settler] appears"
+                    "Free [settler godd] appears"
                 ],
                 "requires": ["Republic"],
                 "row": 2,
