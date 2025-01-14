@@ -48,4 +48,20 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
   },
+	{
+		"name": "Pendejo",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 12,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniqueTo": "Rateii",
+		"replaces": "Warrior",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
 ]
