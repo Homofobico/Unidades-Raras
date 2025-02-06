@@ -18,8 +18,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Accept this agreement or suffer the consequences.",
 
-        "outerColor": [139,32,23],
-        "innerColor": [134,238,214],
+        "outerColor": [165,32,25],
+        "innerColor": [147,151,153],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
@@ -52,8 +52,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Accept this agreement or suffer the consequences.",
 
-        "outerColor": [139,32,23],
-        "innerColor": [134,238,214],
+        "outerColor": [30,80,180],
+        "innerColor": [147,151,153],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
@@ -86,8 +86,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Accept this agreement or suffer the consequences.",
 
-        "outerColor": [139,32,23],
-        "innerColor": [134,238,214],
+        "outerColor": [29,143,57],
+        "innerColor": [147,151,153],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
@@ -120,8 +120,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Accept this agreement or suffer the consequences.",
 
-        "outerColor": [139,32,23],
-        "innerColor": [134,238,214],
+        "outerColor": [233,55,150],
+        "innerColor": [147,151,153],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
