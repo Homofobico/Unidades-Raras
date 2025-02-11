@@ -25,13 +25,6 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Rateii
-  rotate: false
-  xy: 4, 7
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Phasers
   rotate: false
   xy: 328, 4
