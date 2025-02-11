@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Rateii
+NationIcons/
   rotate: false
   xy: -9, 5
   size: 2, 2
