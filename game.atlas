@@ -20,9 +20,9 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Rateii
   rotate: false
-  xy: 4, 7
-  size: 100, 100
-  orig: 100, 100
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
