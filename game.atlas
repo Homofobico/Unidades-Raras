@@ -12,9 +12,3 @@ NationIcons/Rateii
   offset: 0, 0
   index: -1
 
-game2.png
-size: 128, 128
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-
