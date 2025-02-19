@@ -1,12 +1,12 @@
 
 game.png
-size: 1018, 476
+size: 128, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Rateii
   rotate: false
-  xy: 20, 26
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
