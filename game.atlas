@@ -16,10 +16,4 @@ size: 128, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Bruno
-  rotate: false
-  xy: 264, 50
-  size: 128, 128
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+
