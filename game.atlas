@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Rateii
   rotate: false
-  xy: 20, 50
+  xy: 20, 40
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
