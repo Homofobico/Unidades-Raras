@@ -6,15 +6,15 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Rateii
   rotate: false
-  xy: 0, 0
-  size: 128, 128
-  orig: 1018, 476
+  xy: 90, 93
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Bruno
   rotate: false
-  xy: 0, 0
-  size: 128, 128
-  orig: 1018, 476
+  xy: 264, 134
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
