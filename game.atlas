@@ -7,8 +7,8 @@ repeat: none
 NationIcons/Rateii
   rotate: false
   xy: 50, 50
-  size: 100, 100
-  orig: 100, 100
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Bruno
