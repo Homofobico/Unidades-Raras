@@ -1,7 +1,7 @@
 [
 	},
   	{	// For Bruno el deplorable
-		"name": "Summons a reanimated",
-		"uniques": [Gain a free [Warrior] 
+		"name": "Reanimated",
+		"uniques": ["On kill, spawns a [Warrior] in this tile with 100% chance"] 
 	}
 ]
