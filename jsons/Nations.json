@@ -126,7 +126,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
 		"uniques": ["Earn [500]% of killed [Military] unit's [Strength] as [Culture]"], 
-		"uniques": ["When defeating an unit, earn [25] Gold and recruit a [Warrior] unit <with [100]% chance>"],
+		"uniques": ["May spawn a Warrior when attacking enemies [50% chance]",
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
