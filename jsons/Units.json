@@ -78,7 +78,22 @@
 		"uniques" : ["May upgrade to [Tank] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "Los Yetis Venezolanos son warriors infectados por una cepa mutada de Cordyceps que llegó a unciv. Se caracterizan por su agresividad descontrolada, su apariencia deformada por el crecimiento de hongos y su capacidad de propagación exponencial. A diferencia de zombis comunes, estos especímenes mantienen cierta organización grupal y su grito de guerra distintivo."}
+			{"text": "En The Last of Us, los hongos mutados Cordyceps infectan a las personas y las transforman en criaturas violentas y grotescas. Pero si reemplazamos "zombies" por Yetis Venezolanos, la explicación sería así:
+
+¿Qué hace el hongo?
+Infección: El hongo entra al cuerpo por inhalación o mordida de un Yeti Venezolano (un infectado).
+
+Control mental: El Cordyceps crece en el cerebro, volviendo a la persona agresiva, con instintos primitivos y... ¡con un extraño gusto por la arepa cruda!
+
+Transformación física:
+
+Etapa 1 (Yeti Rápido): Pierde humanidad, pero corre como llanero en una arrechera.
+
+Etapa 2 (Yeti Chávez): Le salen tentáculos fungosos y grita "¡Patria o muerte!" mientras ataca.
+
+Etapa 3 (Yeti Maduro): Se fusiona con otros infectados, formando una megamasa socialista de hongos que bloquea carreteras.
+
+Propagación: Los Yetis Venezolanos escupen esporas o muerden para infectar a otros, convirtiendo ciudades en mercados de cadena socialista llenos de monstruos"}
                             ]
 		}
 		
