@@ -78,10 +78,6 @@
 		"uniques" : ["May upgrade to [Tank] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "Los hongos Cordyceps transforman a la gente en "Yetis Venezolanos":
-                           Les quita el control (actúan con rabia, como en una cola de gasolina).
-                              Les deforma el cuerpo (crecen hongos como corrupción).
-                                 Se propagan rápido (mordidas, esporas... o noticias falsas).
-                                   En vez de ¡Brains!, gritan MADURO y atacan en manada."}
+			{"text": "Los Yetis Venezolanos son warriors infectados por una cepa mutada de Cordyceps que llegó a unciv. Se caracterizan por su agresividad descontrolada, su apariencia deformada por el crecimiento de hongos y su capacidad de propagación exponencial. A diferencia de zombis comunes, estos especímenes mantienen cierta organización grupal y su grito de guerra distintivo."}
 },
 ]
