@@ -84,7 +84,7 @@
 	        {
 	           "name": "Giant Deadly Eye",
 		"unitType": "Siege",
-		"movement": 0.5,
+		"movement": 1,
 		"strength": 11,
 		"rangedStrength": 14,
 		"cost": 40,
