@@ -78,10 +78,14 @@
 		"uniques" : ["May upgrade to [Tank] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "En Unciv, los hongos mutados Cordyceps han llegado e infectan a las personas y las transforman en criaturas violentas y grotescas, llamadas yetis venezolanos. ¿Cómo ataca el hongo?
-Infección: El hongo entra al cuerpo por inhalación o mordida de un Yeti Venezolano (un infectado).
-Control mental: El Cordyceps crece en el cerebro, volviendo a la persona agresiva, con instintos primitivos y... ¡con un extraño gusto por la arepa cruda!
-Maduración total (Yeti Maduro): Se fusiona con otros infectados, formando una megamasa socialista de hongos que bloquea carreteras.
-Propagación: Los Yetis Venezolanos escupen esporas o muerden para infectar a otros, convirtiendo ciudades en mercados de cadena socialista llenos de monstruos."}
+			{"text": "Los hongos Cordyceps transforman a la gente en "Yetis Venezolanos":
+
+Les quita el control (actúan con rabia, como en una cola de gasolina).
+
+Les deforma el cuerpo (crecen hongos como corrupción).
+
+Se propagan rápido (mordidas, esporas... o noticias falsas).
+
+En vez de "¡Brains!", gritan "¡Coñoee'!" y atacan en manada."}
 		},
 ]
