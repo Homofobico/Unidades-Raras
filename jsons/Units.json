@@ -85,14 +85,14 @@
 	           "name": "Giant Deadly Eye",
 		"unitType": "Siege",
 		"movement": 1,
-		"strength": 11,
+		"strength": 9,
 		"rangedStrength": 14,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniqueTo": "Fede",
 		"replaces": "Warrior",
-		"uniques" : ["Must set up to ranged attack", "[+2] Sight"]
+		"uniques" : ["Must set up to ranged attack", "[+3] Sight"]
 		"attackSound": "tankshot",
         "civilopediaText": [
 			{"text": "Se dice que, junto al otro ojo, ellos podían ver todo el mapa. Pero los tuvieron que nerfear."}
