@@ -74,7 +74,7 @@
 		"upgradesTo": "Swordsman",
 		"uniqueTo": "Bruno",
 		"replaces": "Warrior",
-		"promotions": ["Reanimated"],
+		"Ability": ["Reanimated"],
 		"uniques" : ["May upgrade to [Tank] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
