@@ -83,7 +83,7 @@
 		},
 	        {
 	           "name": "Giant Deadly Eye",
-		"unitType": "Archery",
+		"unitType": "Siege",
 		"movement": 0.5,
 		"strength": 11,
 		"rangedStrength": 14,
