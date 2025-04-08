@@ -111,8 +111,8 @@
     "upgradesTo": "Musketman",
     "uniqueTo": "Homofobico",
     "replaces": "Spearman",
-    "uniques": [ "Can attack all adjacent enemies in a straight line",  // Daña hasta 2-3 enemigos alineados
-    "[-50%] Damage to secondary targets"  // Balance],
+    "uniques": [ "Can attack all adjacent enemies in a straight line",  
+    "[-50%] Damage to secondary targets"],
     "attackSound": "punch",
     "civilopediaText": [
         {"text": "Rayman, el legendario héroe sin extremidades, es conocido por su velocidad y su capacidad para golpear a sus enemigos desde lejos con sus poderosos puños."}
