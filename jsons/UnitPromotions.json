@@ -779,7 +779,7 @@
 	},
 	{	// For Marco el goat
 		"name": "Super slap",
-		"uniques": ["Gain [+1] Strength every [3] turns <up to [+5] Strength>",  // +1 cada 3 turnos (máx. +5)
-        "Loses all bonus Strength if the unit skips attacking for [2] turns"] 
+		"uniques": [""Gain [+1] Strength every [3] turns <up to [+5] Strength>",
+        "Loses all bonus Strength if the unit does not attack for [2] turns"] 
 	}
 ]
