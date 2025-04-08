@@ -52,13 +52,13 @@
 		"name": "Pendejo",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 12,
+		"strength": 14,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniqueTo": "Rateii",
 		"replaces": "Warrior",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Unit will heal every turn, even if it performs an action"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
