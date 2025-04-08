@@ -779,6 +779,6 @@
 	},
 	{	// For Marco el goat
 		"name": "Super slap",
-		"uniques": ["Gain [+1] Strength"] 
+		"uniques": ["[+20]% Strength <every [3] turns>"] 
 	}
 ]
