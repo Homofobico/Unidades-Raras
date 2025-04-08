@@ -101,7 +101,7 @@
 	},
 	{
     "name": "Rayman",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 9,
     "promotions": ["Super slap"],
