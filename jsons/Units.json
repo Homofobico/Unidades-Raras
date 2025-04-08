@@ -105,7 +105,7 @@
     "movement": 2,
     "strength": 9,
     "range": 3,
-    "promotions": ["Reanimated"],
+    "promotions": ["Super slap"],
     "cost": 50,
     "obsoleteTech": "Metal Casting",
     "upgradesTo": "Pikeman",
