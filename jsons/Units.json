@@ -109,7 +109,7 @@
     "cost": 50,
     "obsoleteTech": "Gunpowder",
     "upgradesTo": "Musketman",
-    "uniqueTo": "Homofobico",
+    "uniqueTo": "Marco",
     "replaces": "Spearman",
     "uniques": [ "Can attack all adjacent enemies in a straight line",  
     "[-50%] Damage to secondary targets"],
