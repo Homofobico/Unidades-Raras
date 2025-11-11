@@ -47,6 +47,9 @@
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
+	 "civilopediaText": [
+			{"text": "EL ARQUITECTO Y EL CONSTRUCTOR."}
+		]
   },
 	{
 		"name": "Pendejo",
@@ -61,7 +64,7 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Unit will heal every turn, even if it performs an action"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
+			{"text": "Estoy mamadisimo papuh :v."}
 		]
 	},
 	{
@@ -72,7 +75,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniqueTo": "Bruno",
+		"uniqueTo": "Fede",
 		"replaces": "Warrior",
 		"promotions": ["Reanimated"],
 		"uniques" : ["May upgrade to [Pikeman] through ruins-like effects"],
@@ -91,7 +94,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniqueTo": "Fede",
+		"uniqueTo": "Bruno",
 		"replaces": "Warrior",
 		"uniques" : ["Must set up to ranged attack", "[+3] Sight"]
 		"attackSound": "tankshot",
