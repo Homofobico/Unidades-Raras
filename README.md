@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# RARE UNITS FOR UNCIV
 
-An example mod for Unciv, that adds one new Civilization.
+A mod with 4 new civs and a rare starting troop for each.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Nerf miner.
